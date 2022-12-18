@@ -30,7 +30,7 @@ Criação de uma aplicação simples de um página sobre gatos utilizando as tag
 
 ## Funcionalidades
 
-:heavy_check_mark: Um aplicação simples utilizando somente elementos em HTML. Fiz uso das tags semânticas dentro da aplicação, da tag "form" para criar formulários simples, da tag "a href" para definir um destino para o link, a tag "img src" para inserir imagens e da estrutura da tags ordenadas "ol" e não ordenadas "ul" para a montangens de listas.   
+:heavy_check_mark: Um aplicação simples utilizando somente elementos em HTML. Fiz uso das tags semânticas dentro da aplicação, da tag "form" para criar formulários simples, da tag "a href" para definir um destino para o link, a tag "img src" para inserir imagens e da estrutura da tags ordenadas "ol" e não ordenadas "ul" para a montagens de listas.   
 
 
 ## Linguagens, dependências e libs utilizadas :books:
